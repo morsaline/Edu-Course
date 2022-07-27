@@ -10,8 +10,3 @@
 footer {
   height: 350px;
 }
-@media screen and (max-width: 992px) {
-  .com-sec {
-    display: none;
-  }
-}

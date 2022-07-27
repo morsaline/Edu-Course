@@ -7,6 +7,9 @@
   max-width: 15%;
   display: inline-block;
 }
+footer {
+  height: 350px;
+}
 @media screen and (max-width: 992px) {
   .com-sec {
     display: none;
